@@ -20,3 +20,7 @@ Stock_Analysis_AI/
 ├── Run.ipynb
 ├── README.md
 └── .gitignore
+
+Setup & Instalasi
+
+Untuk menjalankan notebook ini secara lokal atau di Google Colab, pastikan Anda telah menginstal library yang diperlukan:
