@@ -1,7 +1,6 @@
 # Stock_Analysis_AI
-Proyek Stock_Analysis_AI dirancang untuk melakukan analisis fundamental dan teknikal pada pasar saham (IHSG). Proyek ini mengintegrasikan data keuangan historis dengan pendekatan Multi-Criteria Decision Analysis (MCDA) dan model Machine Learning (XGBoost & Neural Networks) untuk memberikan perspektif investasi yang lebih terstruktur.
 
-Proyek **Stock_Analysis_AI** dirancang untuk melakukan analisis fundamental dan teknikal pada pasar saham (IHSG). Proyek ini mengintegrasikan data keuangan historis dengan pendekatan **Multi-Criteria Decision Analysis (MCDA)** dan model *Machine Learning* (**XGBoost** & **Neural Networks**) untuk memberikan perspektif investasi yang lebih terstruktur.
+The **Stock_Analysis_AI** project is designed to perform fundamental and technical analysis of the Indonesian Stock Exchange (IDX/IHSG). This project integrates historical financial data with a Multi-Criteria Decision Analysis (MCDA) approach and machine learning models (XGBoost & Neural Networks) to provide a more structured investment perspective.
 
 ## Project Structure
 
